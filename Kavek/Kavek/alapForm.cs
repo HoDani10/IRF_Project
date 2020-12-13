@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Kavek
 {
-    public partial class Form1 : Form
+    public partial class alapForm : Form
     {
-        public Form1()
+        public alapForm()
         {
             InitializeComponent();
         }

@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<ID>89</ID>
+		<Megnevezés>CAFÉ CELLO</Megnevezés>
+		<DB>4</DB>
+		<Ár>850</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>3400</Br_bevétel>
+		<Összköltség>201.57</Összköltség>
+	</record>
+	<record>
+		<ID>34</ID>
+		<Megnevezés>CAFÉ CORRETTO</Megnevezés>
+		<DB>6</DB>
+		<Ár>690</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>4140</Br_bevétel>
+		<Összköltség>302.36</Összköltség>
+	</record>
+	<record>
+		<ID>38</ID>
+		<Megnevezés>CAFÉ GRIOTTE BON-BON</Megnevezés>
+		<DB>46</DB>
+		<Ár>850</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>39100</Br_bevétel>
+		<Összköltség>2318.11</Összköltség>
+	</record>
+	<record>
+		<ID>35</ID>
+		<Megnevezés>CAFÉ IRLANDAIS</Megnevezés>
+		<DB>36</DB>
+		<Ár>990</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>35640</Br_bevétel>
+		<Összköltség>11894.17</Összköltség>
+	</record>
+	<record>
+		<ID>36</ID>
+		<Megnevezés>CAFÉ MADAME</Megnevezés>
+		<DB>32</DB>
+		<Ár>990</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>31680</Br_bevétel>
+		<Összköltség>7372.6</Összköltség>
+	</record>
+	<record>
+		<ID>37</ID>
+		<Megnevezés>CAFÉ MONSIEUR</Megnevezés>
+		<DB>5</DB>
+		<Ár>950</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>4750</Br_bevétel>
+		<Összköltség>251.97</Összköltség>
+	</record>
+	<record>
+		<ID>119</ID>
+		<Megnevezés>CAFÉ NOËL</Megnevezés>
+		<DB>22</DB>
+		<Ár>950</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>20900</Br_bevétel>
+		<Összköltség>1108.66</Összköltség>
+	</record>
+	<record>
+		<ID>39</ID>
+		<Megnevezés>CAFÉ SURPRENDRE</Megnevezés>
+		<DB>7</DB>
+		<Ár>950</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>6650</Br_bevétel>
+		<Összköltség>352.76</Összköltség>
+	</record>
+	<record>
+		<ID>527</ID>
+		<Megnevezés>CAFE GLACE AU LIQUEUR CAFE</Megnevezés>
+		<DB>3</DB>
+		<Ár>950</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>2850</Br_bevétel>
+		<Összköltség>151.18</Összköltség>
+	</record>
+	<record>
+		<ID>528</ID>
+		<Megnevezés>CAFE GLACE CHOCOLATE GRIOTTE BONBON</Megnevezés>
+		<DB>16</DB>
+		<Ár>950</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>15200</Br_bevétel>
+		<Összköltség>806.3</Összköltség>
+	</record>
+	<record>
+		<ID>431</ID>
+		<Megnevezés>CAFÉ AU LAIT GLACE</Megnevezés>
+		<DB>59</DB>
+		<Ár>690</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>40710</Br_bevétel>
+		<Összköltség>2973.23</Összköltség>
+	</record>
+	<record>
+		<ID>432</ID>
+		<Megnevezés>CAFÉ AU LAIT GLACE</Megnevezés>
+		<DB>1</DB>
+		<Ár>690</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>690</Br_bevétel>
+		<Összköltség>50.39</Összköltség>
+	</record>
+	<record>
+		<ID>42</ID>
+		<Megnevezés>CAFÉ GLACE</Megnevezés>
+		<DB>177</DB>
+		<Ár>850</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>150450</Br_bevétel>
+		<Összköltség>8919.68</Összköltség>
+	</record>
+	<record>
+		<ID>518</ID>
+		<Megnevezés>CAFÉ GLACE EPIECES</Megnevezés>
+		<DB>31</DB>
+		<Ár>990</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>30690</Br_bevétel>
+		<Összköltség>1562.2</Összköltség>
+	</record>
+	<record>
+		<ID>86</ID>
+		<Megnevezés>CAFÉ GLACE ESPRESSO</Megnevezés>
+		<DB>4</DB>
+		<Ár>450</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>1800</Br_bevétel>
+		<Összköltség>201.57</Összköltség>
+	</record>
+	<record>
+		<ID>519</ID>
+		<Megnevezés>CAFÉ GLACE NÉROLI</Megnevezés>
+		<DB>15</DB>
+		<Ár>990</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>14850</Br_bevétel>
+		<Összköltség>755.91</Összköltség>
+	</record>
+	<record>
+		<ID>44</ID>
+		<Megnevezés>CAFÉ LASSI</Megnevezés>
+		<DB>41</DB>
+		<Ár>650</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>26650</Br_bevétel>
+		<Összköltség>2066.14</Összköltség>
+	</record>
+	<record>
+		<ID>526</ID>
+		<Megnevezés>ESPRESSO ORANGE CRÉME GLACE</Megnevezés>
+		<DB>24</DB>
+		<Ár>590</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>14160</Br_bevétel>
+		<Összköltség>1209.45</Összköltség>
+	</record>
+	<record>
+		<ID>11</ID>
+		<Megnevezés>FRAPPÉ</Megnevezés>
+		<DB>74</DB>
+		<Ár>690</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>51060</Br_bevétel>
+		<Összköltség>3729.13</Összköltség>
+	</record>
+	<record>
+		<ID>12</ID>
+		<Megnevezés>FRAPPÉ</Megnevezés>
+		<DB>1</DB>
+		<Ár>690</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>690</Br_bevétel>
+		<Összköltség>50.39</Összköltség>
+	</record>
+	<record>
+		<ID>40</ID>
+		<Megnevezés>FRAPPÉ MOCHA</Megnevezés>
+		<DB>19</DB>
+		<Ár>690</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>13110</Br_bevétel>
+		<Összköltség>957.48</Összköltség>
+	</record>
+	<record>
+		<ID>41</ID>
+		<Megnevezés>MOCHA GLACE</Megnevezés>
+		<DB>17</DB>
+		<Ár>790</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>13430</Br_bevétel>
+		<Összköltség>856.69</Összköltség>
+	</record>
+	<record>
+		<ID>4131</ID>
+		<Megnevezés>CAFÉ AU LAIT EPIECES</Megnevezés>
+		<DB>276</DB>
+		<Ár>750</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>207000</Br_bevétel>
+		<Összköltség>13908.66</Összköltség>
+	</record>
+	<record>
+		<ID>4132</ID>
+		<Megnevezés>CAFÉ AU LAIT EPIECES</Megnevezés>
+		<DB>1</DB>
+		<Ár>750</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>750</Br_bevétel>
+		<Összköltség>50.39</Összköltség>
+	</record>
+	<record>
+		<ID>171</ID>
+		<Megnevezés>CAFÉ C'EST LA VIE</Megnevezés>
+		<DB>209</DB>
+		<Ár>650</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>135200</Br_bevétel>
+		<Összköltség>10532.28</Összköltség>
+	</record>
+	<record>
+		<ID>172</ID>
+		<Megnevezés>CAFÉ C'EST LA VIE</Megnevezés>
+		<DB>5</DB>
+		<Ár>650</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>3250</Br_bevétel>
+		<Összköltség>251.97</Összköltség>
+	</record>
+	<record>
+		<ID>30</ID>
+		<Megnevezés>CAFÉ CHILI</Megnevezés>
+		<DB>91</DB>
+		<Ár>650</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>59150</Br_bevétel>
+		<Összköltség>4585.82</Összköltség>
+	</record>
+	<record>
+		<ID>32</ID>
+		<Megnevezés>CAFÉ CITRON</Megnevezés>
+		<DB>22</DB>
+		<Ár>690</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>15180</Br_bevétel>
+		<Összköltség>1108.66</Összköltség>
+	</record>
+	<record>
+		<ID>33</ID>
+		<Megnevezés>CAFÉ CUBANO</Megnevezés>
+		<DB>41</DB>
+		<Ár>550</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>22550</Br_bevétel>
+		<Összköltség>2066.14</Összköltség>
+	</record>
+	<record>
+		<ID>494</ID>
+		<Megnevezés>CAFÉ GALA A'LA MB</Megnevezés>
+		<DB>186</DB>
+		<Ár>790</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>146782</Br_bevétel>
+		<Összköltség>9373.22</Összköltség>
+	</record>
+	<record>
+		<ID>29</ID>
+		<Megnevezés>CAFÉ KARDAMOM</Megnevezés>
+		<DB>56</DB>
+		<Ár>590</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>33040</Br_bevétel>
+		<Összköltség>2822.05</Összköltség>
+	</record>
+	<record>
+		<ID>26</ID>
+		<Megnevezés>CAFÉ MELANGE</Megnevezés>
+		<DB>252</DB>
+		<Ár>750</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>189000</Br_bevétel>
+		<Összköltség>12699.21</Összköltség>
+	</record>
+	<record>
+		<ID>25</ID>
+		<Megnevezés>CAFÉ MOCHA</Megnevezés>
+		<DB>95</DB>
+		<Ár>690</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>65550</Br_bevétel>
+		<Összköltség>4787.4</Összköltség>
+	</record>
+	<record>
+		<ID>522</ID>
+		<Megnevezés>CAFÉ NÉROLI</Megnevezés>
+		<DB>40</DB>
+		<Ár>890</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>35600</Br_bevétel>
+		<Összköltség>2015.75</Összköltség>
+	</record>
+	<record>
+		<ID>4881</ID>
+		<Megnevezés>CAFÉ NOISETTE EPIECES</Megnevezés>
+		<DB>27</DB>
+		<Ár>550</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>14850</Br_bevétel>
+		<Összköltség>1360.63</Összköltség>
+	</record>
+	<record>
+		<ID>4882</ID>
+		<Megnevezés>CAFÉ NOISETTE EPIECES</Megnevezés>
+		<DB>1</DB>
+		<Ár>550</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>550</Br_bevétel>
+		<Összköltség>50.39</Összköltség>
+	</record>
+	<record>
+		<ID>31</ID>
+		<Megnevezés>CAFÉ ORANGE</Megnevezés>
+		<DB>222</DB>
+		<Ár>690</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>153180</Br_bevétel>
+		<Összköltség>11187.4</Összköltség>
+	</record>
+	<record>
+		<ID>531</ID>
+		<Megnevezés>CAFÉ SAINT NICOLAS</Megnevezés>
+		<DB>4</DB>
+		<Ár>1490</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>5960</Br_bevétel>
+		<Összköltség>201.57</Összköltség>
+	</record>
+	<record>
+		<ID>530</ID>
+		<Megnevezés>CAFÉ ZINGIBER</Megnevezés>
+		<DB>16</DB>
+		<Ár>690</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>11040</Br_bevétel>
+		<Összköltség>806.3</Összköltség>
+	</record>
+	<record>
+		<ID>181</ID>
+		<Megnevezés>CAPPUCCINO EPIECES</Megnevezés>
+		<DB>425</DB>
+		<Ár>650</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>276250</Br_bevétel>
+		<Összköltség>21417.31</Összköltség>
+	</record>
+	<record>
+		<ID>182</ID>
+		<Megnevezés>CAPPUCCINO EPIECES</Megnevezés>
+		<DB>6</DB>
+		<Ár>650</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>3900</Br_bevétel>
+		<Összköltség>302.36</Összköltség>
+	</record>
+	<record>
+		<ID>271</ID>
+		<Megnevezés>CAFÉ AMERICANO</Megnevezés>
+		<DB>319</DB>
+		<Ár>550</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>175450</Br_bevétel>
+		<Összköltség>16075.58</Összköltség>
+	</record>
+	<record>
+		<ID>272</ID>
+		<Megnevezés>CAFÉ AMERICANO</Megnevezés>
+		<DB>10</DB>
+		<Ár>550</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>5500</Br_bevétel>
+		<Összköltség>503.94</Összköltség>
+	</record>
+	<record>
+		<ID>201</ID>
+		<Megnevezés>CAFÉ AU LAIT</Megnevezés>
+		<DB>832</DB>
+		<Ár>690</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>573942</Br_bevétel>
+		<Összköltség>41927.54</Összköltség>
+	</record>
+	<record>
+		<ID>202</ID>
+		<Megnevezés>CAFÉ AU LAIT</Megnevezés>
+		<DB>9</DB>
+		<Ár>690</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>6210</Br_bevétel>
+		<Összköltség>453.54</Összköltség>
+	</record>
+	<record>
+		<ID>231</ID>
+		<Megnevezés>CAFÉ BREVE</Megnevezés>
+		<DB>123</DB>
+		<Ár>640</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>78720</Br_bevétel>
+		<Összköltség>6198.42</Összköltség>
+	</record>
+	<record>
+		<ID>232</ID>
+		<Megnevezés>CAFÉ BREVE</Megnevezés>
+		<DB>1</DB>
+		<Ár>640</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>640</Br_bevétel>
+		<Összköltség>50.39</Összköltség>
+	</record>
+	<record>
+		<ID>22</ID>
+		<Megnevezés>CAFÉ CAFETIÉRE (FRENCH PRESS 2 SZEMÉLYRE)</Megnevezés>
+		<DB>2</DB>
+		<Ár>1490</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>2980</Br_bevétel>
+		<Összköltség>0</Összköltség>
+	</record>
+	<record>
+		<ID>19</ID>
+		<Megnevezés>CAFÉ CHANTILLY</Megnevezés>
+		<DB>44</DB>
+		<Ár>550</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>24200</Br_bevétel>
+		<Összköltség>2217.32</Összköltség>
+	</record>
+	<record>
+		<ID>4891</ID>
+		<Megnevezés>CAFÉ CORTADO</Megnevezés>
+		<DB>202</DB>
+		<Ár>890</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>179780</Br_bevétel>
+		<Összköltség>10179.52</Összköltség>
+	</record>
+	<record>
+		<ID>4892</ID>
+		<Megnevezés>CAFÉ CORTADO</Megnevezés>
+		<DB>3</DB>
+		<Ár>890</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>2670</Br_bevétel>
+		<Összköltség>151.18</Összköltség>
+	</record>
+	<record>
+		<ID>241</ID>
+		<Megnevezés>CAFÉ CRÉMEUX</Megnevezés>
+		<DB>34</DB>
+		<Ár>550</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>18700</Br_bevétel>
+		<Összköltség>1713.39</Összköltség>
+	</record>
+	<record>
+		<ID>242</ID>
+		<Megnevezés>CAFÉ CRÉMEUX</Megnevezés>
+		<DB>1</DB>
+		<Ár>550</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>550</Br_bevétel>
+		<Összköltség>50.39</Összköltség>
+	</record>
+	<record>
+		<ID>851</ID>
+		<Megnevezés>CAFÉ LONG BB BREVE</Megnevezés>
+		<DB>213</DB>
+		<Ár>790</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>168270</Br_bevétel>
+		<Összköltség>10733.85</Összköltség>
+	</record>
+	<record>
+		<ID>852</ID>
+		<Megnevezés>CAFÉ LONG BB BREVE</Megnevezés>
+		<DB>1</DB>
+		<Ár>790</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>790</Br_bevétel>
+		<Összköltség>50.39</Összköltség>
+	</record>
+	<record>
+		<ID>15</ID>
+		<Megnevezés>CAFÉ NOISETTE</Megnevezés>
+		<DB>119</DB>
+		<Ár>490</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>58310</Br_bevétel>
+		<Összköltség>5996.85</Összköltség>
+	</record>
+	<record>
+		<ID>28</ID>
+		<Megnevezés>CAFÉ VIENNOIS</Megnevezés>
+		<DB>132</DB>
+		<Ár>690</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>91080</Br_bevétel>
+		<Összköltség>6651.97</Összköltség>
+	</record>
+	<record>
+		<ID>161</ID>
+		<Megnevezés>CAPPUCCINO</Megnevezés>
+		<DB>1975</DB>
+		<Ár>590</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>1165250</Br_bevétel>
+		<Összköltség>99527.52</Összköltség>
+	</record>
+	<record>
+		<ID>162</ID>
+		<Megnevezés>CAPPUCCINO</Megnevezés>
+		<DB>57</DB>
+		<Ár>590</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>33630</Br_bevétel>
+		<Összköltség>2872.44</Összköltség>
+	</record>
+	<record>
+		<ID>141</ID>
+		<Megnevezés>DUPLA ESPRESSO</Megnevezés>
+		<DB>53</DB>
+		<Ár>780</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>41340</Br_bevétel>
+		<Összköltség>5341.73</Összköltség>
+	</record>
+	<record>
+		<ID>142</ID>
+		<Megnevezés>DUPLA ESPRESSO</Megnevezés>
+		<DB>4</DB>
+		<Ár>780</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>3120</Br_bevétel>
+		<Összköltség>403.15</Összköltség>
+	</record>
+	<record>
+		<ID>121</ID>
+		<Megnevezés>ESPRESSO</Megnevezés>
+		<DB>1534</DB>
+		<Ár>390</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>598260</Br_bevétel>
+		<Összköltség>77303.91</Összköltség>
+	</record>
+	<record>
+		<ID>122</ID>
+		<Megnevezés>ESPRESSO</Megnevezés>
+		<DB>30</DB>
+		<Ár>390</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>11700</Br_bevétel>
+		<Összköltség>1511.81</Összköltség>
+	</record>
+	<record>
+		<ID>21</ID>
+		<Megnevezés>MONSIEUR SALY KEDVENCE</Megnevezés>
+		<DB>57</DB>
+		<Ár>590</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>33630</Br_bevétel>
+		<Összköltség>2872.44</Összköltség>
+	</record>
+	<record>
+		<ID>118</ID>
+		<Megnevezés>RISTRETTO</Megnevezés>
+		<DB>81</DB>
+		<Ár>390</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>31590</Br_bevétel>
+		<Összköltség>4081.89</Összköltség>
+	</record>
+	<record>
+		<ID>163</ID>
+		<Megnevezés>CAFÉ IRLANDAIS DECAF</Megnevezés>
+		<DB>1</DB>
+		<Ár>1090</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>1090</Br_bevétel>
+		<Összköltség>330.39</Összköltség>
+	</record>
+	<record>
+		<ID>165</ID>
+		<Megnevezés>CAFÉ MONSIEUR DECAF</Megnevezés>
+		<DB>1</DB>
+		<Ár>1050</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>1050</Br_bevétel>
+		<Összköltség>50.39</Összköltség>
+	</record>
+	<record>
+		<ID>415</ID>
+		<Megnevezés>CAFÉ AU LAIT EPIECES DECAF</Megnevezés>
+		<DB>12</DB>
+		<Ár>850</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>10200</Br_bevétel>
+		<Összköltség>604.72</Összköltség>
+	</record>
+	<record>
+		<ID>167</ID>
+		<Megnevezés>CAFÉ C'EST LA VIE DECAF</Megnevezés>
+		<DB>14</DB>
+		<Ár>750</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>10500</Br_bevétel>
+		<Összköltség>705.51</Összköltség>
+	</record>
+	<record>
+		<ID>170</ID>
+		<Megnevezés>CAFÉ CITRON DECAF</Megnevezés>
+		<DB>1</DB>
+		<Ár>790</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>790</Br_bevétel>
+		<Összköltség>50.39</Összköltség>
+	</record>
+	<record>
+		<ID>495</ID>
+		<Megnevezés>CAFÉ GALA A'LA MB DECAF</Megnevezés>
+		<DB>6</DB>
+		<Ár>890</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>5340</Br_bevétel>
+		<Összköltség>302.36</Összköltség>
+	</record>
+	<record>
+		<ID>1731</ID>
+		<Megnevezés>CAFÉ MELANGE DECAF</Megnevezés>
+		<DB>7</DB>
+		<Ár>850</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>5950</Br_bevétel>
+		<Összköltség>352.76</Összköltség>
+	</record>
+	<record>
+		<ID>1732</ID>
+		<Megnevezés>CAFÉ MELANGE DECAF</Megnevezés>
+		<DB>1</DB>
+		<Ár>850</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>850</Br_bevétel>
+		<Összköltség>50.39</Összköltség>
+	</record>
+	<record>
+		<ID>174</ID>
+		<Megnevezés>CAFÉ MOCHA DECAF</Megnevezés>
+		<DB>2</DB>
+		<Ár>790</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>1580</Br_bevétel>
+		<Összköltség>100.79</Összköltség>
+	</record>
+	<record>
+		<ID>523</ID>
+		<Megnevezés>CAFÉ NÉROLI DECAF</Megnevezés>
+		<DB>2</DB>
+		<Ár>990</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>1980</Br_bevétel>
+		<Összköltség>100.79</Összköltség>
+	</record>
+	<record>
+		<ID>490</ID>
+		<Megnevezés>CAFÉ NOISETTE EPICES DECAF</Megnevezés>
+		<DB>1</DB>
+		<Ár>650</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>650</Br_bevétel>
+		<Összköltség>50.39</Összköltség>
+	</record>
+	<record>
+		<ID>176</ID>
+		<Megnevezés>CAFÉ ORANGE DECAF</Megnevezés>
+		<DB>7</DB>
+		<Ár>790</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>5530</Br_bevétel>
+		<Összköltség>352.76</Összköltség>
+	</record>
+	<record>
+		<ID>177</ID>
+		<Megnevezés>CAPPUCCINO EPIECES DECAF</Megnevezés>
+		<DB>12</DB>
+		<Ár>750</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>9000</Br_bevétel>
+		<Összköltség>604.72</Összköltség>
+	</record>
+	<record>
+		<ID>178</ID>
+		<Megnevezés>CAFÉ AU LAIT GLACE DECAF</Megnevezés>
+		<DB>2</DB>
+		<Ár>790</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>1580</Br_bevétel>
+		<Összköltség>100.79</Összköltség>
+	</record>
+	<record>
+		<ID>179</ID>
+		<Megnevezés>CAFÉ GLACE DECAF</Megnevezés>
+		<DB>10</DB>
+		<Ár>950</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>9500</Br_bevétel>
+		<Összköltség>503.94</Összköltség>
+	</record>
+	<record>
+		<ID>520</ID>
+		<Megnevezés>CAFÉ GLACE EPIECES DECAF</Megnevezés>
+		<DB>1</DB>
+		<Ár>1090</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>1090</Br_bevétel>
+		<Összköltség>50.39</Összköltség>
+	</record>
+	<record>
+		<ID>521</ID>
+		<Megnevezés>CAFÉ GLACE NÉROLI DECAF</Megnevezés>
+		<DB>1</DB>
+		<Ár>1090</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>1090</Br_bevétel>
+		<Összköltség>50.39</Összköltség>
+	</record>
+	<record>
+		<ID>183</ID>
+		<Megnevezés>FRAPPÉ MOCHA DECAF</Megnevezés>
+		<DB>1</DB>
+		<Ár>790</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>790</Br_bevétel>
+		<Összköltség>50.39</Összköltség>
+	</record>
+	<record>
+		<ID>185</ID>
+		<Megnevezés>CAFÉ AMERICANO DECAF</Megnevezés>
+		<DB>14</DB>
+		<Ár>650</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>9100</Br_bevétel>
+		<Összköltség>705.51</Összköltség>
+	</record>
+	<record>
+		<ID>186</ID>
+		<Megnevezés>CAFÉ AU LAIT DECAF</Megnevezés>
+		<DB>28</DB>
+		<Ár>790</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>22120</Br_bevétel>
+		<Összköltség>1411.02</Összköltség>
+	</record>
+	<record>
+		<ID>187</ID>
+		<Megnevezés>CAFÉ BREVE DECAF</Megnevezés>
+		<DB>4</DB>
+		<Ár>740</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>2960</Br_bevétel>
+		<Összköltség>201.57</Összköltség>
+	</record>
+	<record>
+		<ID>189</ID>
+		<Megnevezés>CAFÉ CRÉMEUX DECAF</Megnevezés>
+		<DB>1</DB>
+		<Ár>650</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>650</Br_bevétel>
+		<Összköltség>50.39</Összköltség>
+	</record>
+	<record>
+		<ID>359</ID>
+		<Megnevezés>CAFÉ LONG BB BREVE DECAF</Megnevezés>
+		<DB>1</DB>
+		<Ár>890</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>890</Br_bevétel>
+		<Összköltség>50.39</Összköltség>
+	</record>
+	<record>
+		<ID>190</ID>
+		<Megnevezés>CAFÉ NOISETTE DECAF</Megnevezés>
+		<DB>3</DB>
+		<Ár>590</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>1770</Br_bevétel>
+		<Összköltség>151.18</Összköltség>
+	</record>
+	<record>
+		<ID>191</ID>
+		<Megnevezés>CAFÉ VIENNOIS DECAF</Megnevezés>
+		<DB>6</DB>
+		<Ár>790</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>4740</Br_bevétel>
+		<Összköltség>302.36</Összköltség>
+	</record>
+	<record>
+		<ID>1921</ID>
+		<Megnevezés>CAPPUCCINO DECAF</Megnevezés>
+		<DB>215</DB>
+		<Ár>690</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>148350</Br_bevétel>
+		<Összköltség>10834.62</Összköltség>
+	</record>
+	<record>
+		<ID>1922</ID>
+		<Megnevezés>CAPPUCCINO DECAF</Megnevezés>
+		<DB>8</DB>
+		<Ár>690</Ár>
+		<Adó_ID>2</Adó_ID>
+		<Br_bevétel>5520</Br_bevétel>
+		<Összköltség>403.15</Összköltség>
+	</record>
+	<record>
+		<ID>193</ID>
+		<Megnevezés>ESPRESSO DECAF</Megnevezés>
+		<DB>9</DB>
+		<Ár>490</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>4410</Br_bevétel>
+		<Összköltség>453.54</Összköltség>
+	</record>
+	<record>
+		<ID>194</ID>
+		<Megnevezés>MONSIEUR SALY KEDVENCE DECAF</Megnevezés>
+		<DB>1</DB>
+		<Ár>690</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>690</Br_bevétel>
+		<Összköltség>50.39</Összköltség>
+	</record>
+	<record>
+		<ID>195</ID>
+		<Megnevezés>RISTRETTO DECAF</Megnevezés>
+		<DB>2</DB>
+		<Ár>490</Ár>
+		<Adó_ID>1</Adó_ID>
+		<Br_bevétel>980</Br_bevétel>
+		<Összköltség>100.79</Összköltség>
+	</record>
+</data-set>
