@@ -34,30 +34,36 @@
             // 
             // szuroformbtn
             // 
-            this.szuroformbtn.Location = new System.Drawing.Point(495, 57);
+            this.szuroformbtn.BackColor = System.Drawing.Color.Tan;
+            this.szuroformbtn.Location = new System.Drawing.Point(631, 81);
+            this.szuroformbtn.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.szuroformbtn.Name = "szuroformbtn";
-            this.szuroformbtn.Size = new System.Drawing.Size(186, 89);
+            this.szuroformbtn.Size = new System.Drawing.Size(279, 137);
             this.szuroformbtn.TabIndex = 0;
             this.szuroformbtn.Text = "Irány szűrni";
-            this.szuroformbtn.UseVisualStyleBackColor = true;
+            this.szuroformbtn.UseVisualStyleBackColor = false;
             this.szuroformbtn.Click += new System.EventHandler(this.szuroformbtn_Click);
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(495, 174);
+            this.button2.BackColor = System.Drawing.Color.Tan;
+            this.button2.Location = new System.Drawing.Point(631, 306);
+            this.button2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(186, 89);
+            this.button2.Size = new System.Drawing.Size(279, 137);
             this.button2.TabIndex = 1;
             this.button2.Text = "button2";
-            this.button2.UseVisualStyleBackColor = true;
+            this.button2.UseVisualStyleBackColor = false;
             // 
             // alapForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.BackgroundImage = global::Kavek.Properties.Resources.kavebab;
+            this.ClientSize = new System.Drawing.Size(1200, 692);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.szuroformbtn);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "alapForm";
             this.Text = "Form1";
             this.ResumeLayout(false);
