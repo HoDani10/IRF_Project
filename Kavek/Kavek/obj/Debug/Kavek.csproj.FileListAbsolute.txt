@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\IRF_Project2\Kavek\Kavek\obj\Debug\Kavek.csprojAssemblyReference.cache
+C:\Users\Dani\source\repos\IRF_Project2\Kavek\Kavek\obj\Debug\Kavek.alapForm.resources
+C:\Users\Dani\source\repos\IRF_Project2\Kavek\Kavek\obj\Debug\Kavek.Properties.Resources.resources
+C:\Users\Dani\source\repos\IRF_Project2\Kavek\Kavek\obj\Debug\Kavek.szuroForm.resources
+C:\Users\Dani\source\repos\IRF_Project2\Kavek\Kavek\obj\Debug\Kavek.csproj.GenerateResource.cache
+C:\Users\Dani\source\repos\IRF_Project2\Kavek\Kavek\obj\Debug\Kavek.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\IRF_Project2\Kavek\Kavek\bin\Debug\Kavek.exe.config
+C:\Users\Dani\source\repos\IRF_Project2\Kavek\Kavek\bin\Debug\Kavek.exe
+C:\Users\Dani\source\repos\IRF_Project2\Kavek\Kavek\bin\Debug\Kavek.pdb
+C:\Users\Dani\source\repos\IRF_Project2\Kavek\Kavek\obj\Debug\Kavek.exe
+C:\Users\Dani\source\repos\IRF_Project2\Kavek\Kavek\obj\Debug\Kavek.pdb

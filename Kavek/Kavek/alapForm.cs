@@ -16,5 +16,12 @@ namespace Kavek
         {
             InitializeComponent();
         }
+
+        private void szuroformbtn_Click(object sender, EventArgs e)
+        {
+            szuroForm szf = new szuroForm();
+            szf.Show();
+            Hide();
+        }
     }
 }
