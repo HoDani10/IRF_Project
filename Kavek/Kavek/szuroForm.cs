@@ -137,7 +137,41 @@ namespace Kavek
             SaveFileDialog sfd = new SaveFileDialog();
             if (sfd.ShowDialog() != DialogResult.OK) return;
             {
+                StreamWriter sw = new StreamWriter(sfd.FileName, false, Encoding.UTF8);
 
+                sw.Write("Azonosító");
+                sw.Write(';');
+                sw.Write("Kávé neve");
+                sw.Write(';');
+                sw.Write("Eladott darabszám");
+                sw.Write(';');
+                sw.Write("Eladási ár");
+                sw.Write(';');
+                sw.Write("1-helyben, 2-elvitelre");
+                sw.Write(';');
+                sw.Write("Bruttó bevétel");
+                sw.Write(';');
+                sw.Write("Összköltség");
+                sw.WriteLine();
+                foreach (var kave in Kavelista)
+                {
+                    sw.Write(kave.ID);
+                    sw.Write(';');
+                    sw.Write(kave.Megnevezés);
+                    sw.Write(';');
+                    sw.Write(kave.DB);
+                    sw.Write(';');
+                    sw.Write(kave.Ár);
+                    sw.Write(';');
+                    sw.Write(kave.Adó_ID);
+                    sw.Write(';');
+                    sw.Write(kave.Br_bevétel);
+                    sw.Write(';');
+                    sw.Write(kave.Össszköltség);
+                    sw.WriteLine();
+
+                }
+                sw.Close();
 
             }
             
