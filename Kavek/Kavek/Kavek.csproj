@@ -52,6 +52,7 @@
     <Compile Include="alapForm.Designer.cs">
       <DependentUpon>alapForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Entities\adoTipus.cs" />
     <Compile Include="Entities\kaveClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

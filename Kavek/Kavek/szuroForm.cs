@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -48,6 +49,98 @@ namespace Kavek
                 Kavelista.Add(kv);
 
             }
+        }
+
+        private void visszaallitButton_Click(object sender, EventArgs e)
+        {
+            kavekdataGridView.Rows.Clear();
+            kavekdataGridView.Refresh();
+            Beolvasas();
+            kavekdataGridView.DataSource = Kavelista;
+        }
+
+        private void dragakButton_Click(object sender, EventArgs e)
+        {
+            BindingList<kaveClass> dragaktorles = new BindingList<kaveClass>();
+            foreach (kaveClass kv in Kavelista)
+            {
+                if (kv.Ár>=700)
+                {
+                    dragaktorles.Add(kv);
+                }
+
+            }
+            foreach (kaveClass kv in dragaktorles)
+            {
+                Kavelista.Remove(kv);
+            }
+            kavekdataGridView.DataSource = Kavelista;
+        }
+
+        private void decafButton_Click(object sender, EventArgs e)
+        {
+            BindingList<kaveClass> kvtorles = new BindingList<kaveClass>();
+            foreach (kaveClass kv in Kavelista)
+            {
+                if (!kv.Megnevezés.Contains("DECAF"))
+                {
+                    kvtorles.Add(kv);
+                }
+            }
+            foreach (kaveClass kv in kvtorles)
+            {
+                Kavelista.Remove(kv);
+            }
+            kavekdataGridView.DataSource = Kavelista;
+        }
+
+        private void olcsokButton_Click(object sender, EventArgs e)
+        {
+            BindingList<kaveClass> olcsoktorles = new BindingList<kaveClass>();
+            foreach (kaveClass kv in Kavelista)
+            {
+                if (kv.Ár < 700)
+                {
+                    olcsoktorles.Add(kv);
+                }
+
+            }
+            foreach (kaveClass kv in olcsoktorles)
+            {
+                Kavelista.Remove(kv);
+            }
+            kavekdataGridView.DataSource = Kavelista;
+        }
+
+        private void fogyhelybtn_Click(object sender, EventArgs e)
+        {
+            BindingList<kaveClass> elviteltorles = new BindingList<kaveClass>();
+            foreach (kaveClass kv in Kavelista)
+            {
+                
+                adoTipus el = adoTipus.elvitel;
+
+                if (kv.Adó_ID==(int)el)
+                {
+                    elviteltorles.Add(kv);
+                }
+            }
+            foreach (kaveClass kv in elviteltorles)
+            {
+                Kavelista.Remove(kv);
+            }
+            kavekdataGridView.DataSource = Kavelista;
+        }
+
+        private void kiirbtn_Click(object sender, EventArgs e)
+        {
+            SaveFileDialog sfd = new SaveFileDialog();
+            if (sfd.ShowDialog() != DialogResult.OK) return;
+            {
+
+
+            }
+            
         }
     }
 }
