@@ -36,6 +36,7 @@
             this.decafButton = new System.Windows.Forms.Button();
             this.fogyhelybtn = new System.Windows.Forms.Button();
             this.kiirbtn = new System.Windows.Forms.Button();
+            this.topkvbtn = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.kavekdataGridView)).BeginInit();
             this.SuspendLayout();
             // 
@@ -48,7 +49,7 @@
             this.kavekdataGridView.Location = new System.Drawing.Point(13, 19);
             this.kavekdataGridView.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.kavekdataGridView.Name = "kavekdataGridView";
-            this.kavekdataGridView.Size = new System.Drawing.Size(975, 643);
+            this.kavekdataGridView.Size = new System.Drawing.Size(975, 514);
             this.kavekdataGridView.TabIndex = 0;
             // 
             // visszaallitButton
@@ -142,12 +143,26 @@
             this.kiirbtn.UseVisualStyleBackColor = false;
             this.kiirbtn.Click += new System.EventHandler(this.kiirbtn_Click);
             // 
+            // topkvbtn
+            // 
+            this.topkvbtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.topkvbtn.BackColor = System.Drawing.Color.Tan;
+            this.topkvbtn.Location = new System.Drawing.Point(848, 569);
+            this.topkvbtn.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.topkvbtn.Name = "topkvbtn";
+            this.topkvbtn.Size = new System.Drawing.Size(140, 73);
+            this.topkvbtn.TabIndex = 8;
+            this.topkvbtn.Text = "Legtöbbet fogyasztott kávé";
+            this.topkvbtn.UseVisualStyleBackColor = false;
+            this.topkvbtn.Click += new System.EventHandler(this.topkvbtn_Click);
+            // 
             // szuroForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Kavek.Properties.Resources.kavebab;
             this.ClientSize = new System.Drawing.Size(1200, 692);
+            this.Controls.Add(this.topkvbtn);
             this.Controls.Add(this.kiirbtn);
             this.Controls.Add(this.fogyhelybtn);
             this.Controls.Add(this.decafButton);
@@ -174,5 +189,6 @@
         private System.Windows.Forms.Button decafButton;
         private System.Windows.Forms.Button fogyhelybtn;
         private System.Windows.Forms.Button kiirbtn;
+        private System.Windows.Forms.Button topkvbtn;
     }
 }

@@ -38,7 +38,7 @@
             // 
             this.szuroformbtn.BackColor = System.Drawing.Color.Tan;
             this.szuroformbtn.Location = new System.Drawing.Point(450, 283);
-            this.szuroformbtn.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.szuroformbtn.Margin = new System.Windows.Forms.Padding(0);
             this.szuroformbtn.Name = "szuroformbtn";
             this.szuroformbtn.Size = new System.Drawing.Size(279, 137);
             this.szuroformbtn.TabIndex = 0;
@@ -51,7 +51,7 @@
             this.fooldallabel.AutoSize = true;
             this.fooldallabel.BackColor = System.Drawing.Color.Tan;
             this.fooldallabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.fooldallabel.Location = new System.Drawing.Point(152, 54);
+            this.fooldallabel.Location = new System.Drawing.Point(34, 48);
             this.fooldallabel.Name = "fooldallabel";
             this.fooldallabel.Size = new System.Drawing.Size(915, 33);
             this.fooldallabel.TabIndex = 1;
