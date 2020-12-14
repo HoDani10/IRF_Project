@@ -186,22 +186,24 @@ namespace Kavek
 
         private void topkvbtn_Click(object sender, EventArgs e)
         {
-            
-            string topkv;
+
+
             int darabszam = 0;
-           
+            string topkv="a";
             foreach (kaveClass kv in Kavelista)
             {
-                if (kv.DB>=darabszam)
+                
+
+                if (kv.DB>darabszam)
                 {
                     darabszam = kv.DB;
                     topkv = kv.Megnevezés;
                 }
-                else
-                {
-                    MessageBox.Show("A legtöbbet eladott kávé a" + topkv + "," + darabszam + "került eladásra");
-                }
+                
             }
+            MessageBox.Show("A legtöbbet eladott kávé a " + topkv + "," + darabszam + " került eladásra");
+
+
         }
     }
 }
