@@ -101,6 +101,7 @@
             this.fooldalButton.TabIndex = 4;
             this.fooldalButton.Text = "Vissza a főoldalra";
             this.fooldalButton.UseVisualStyleBackColor = false;
+            this.fooldalButton.Click += new System.EventHandler(this.fooldalButton_Click);
             // 
             // decafButton
             // 

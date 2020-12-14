@@ -93,6 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="bin\Debug\kavebab.jpg" />
+    <None Include="bin\Debug\kaveikon.png" />
     <Content Include="kavekexp.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

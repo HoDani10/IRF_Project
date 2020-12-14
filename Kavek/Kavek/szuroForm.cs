@@ -176,5 +176,12 @@ namespace Kavek
             }
             
         }
+
+        private void fooldalButton_Click(object sender, EventArgs e)
+        {
+            alapForm af = new alapForm();
+            af.Show();
+            Hide();
+        }
     }
 }
