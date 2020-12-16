@@ -32,11 +32,11 @@
             this.visszaallitButton = new System.Windows.Forms.Button();
             this.dragakButton = new System.Windows.Forms.Button();
             this.olcsokButton = new System.Windows.Forms.Button();
-            this.fooldalButton = new System.Windows.Forms.Button();
             this.decafButton = new System.Windows.Forms.Button();
             this.fogyhelybtn = new System.Windows.Forms.Button();
             this.kiirbtn = new System.Windows.Forms.Button();
             this.topkvbtn = new System.Windows.Forms.Button();
+            this.homeButton1 = new Kavek.Entities.homeButton();
             ((System.ComponentModel.ISupportInitialize)(this.kavekdataGridView)).BeginInit();
             this.SuspendLayout();
             // 
@@ -49,6 +49,7 @@
             this.kavekdataGridView.Location = new System.Drawing.Point(13, 19);
             this.kavekdataGridView.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.kavekdataGridView.Name = "kavekdataGridView";
+            this.kavekdataGridView.RowHeadersWidth = 62;
             this.kavekdataGridView.Size = new System.Drawing.Size(975, 514);
             this.kavekdataGridView.TabIndex = 0;
             // 
@@ -91,19 +92,6 @@
             this.olcsokButton.UseVisualStyleBackColor = false;
             this.olcsokButton.Click += new System.EventHandler(this.olcsokButton_Click);
             // 
-            // fooldalButton
-            // 
-            this.fooldalButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.fooldalButton.BackColor = System.Drawing.Color.LightGray;
-            this.fooldalButton.Location = new System.Drawing.Point(1023, 554);
-            this.fooldalButton.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.fooldalButton.Name = "fooldalButton";
-            this.fooldalButton.Size = new System.Drawing.Size(140, 103);
-            this.fooldalButton.TabIndex = 4;
-            this.fooldalButton.Text = "Vissza a főoldalra";
-            this.fooldalButton.UseVisualStyleBackColor = false;
-            this.fooldalButton.Click += new System.EventHandler(this.fooldalButton_Click);
-            // 
             // decafButton
             // 
             this.decafButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
@@ -134,7 +122,7 @@
             // 
             this.kiirbtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.kiirbtn.BackColor = System.Drawing.Color.Sienna;
-            this.kiirbtn.Location = new System.Drawing.Point(1023, 460);
+            this.kiirbtn.Location = new System.Drawing.Point(183, 569);
             this.kiirbtn.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.kiirbtn.Name = "kiirbtn";
             this.kiirbtn.Size = new System.Drawing.Size(140, 73);
@@ -147,7 +135,7 @@
             // 
             this.topkvbtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.topkvbtn.BackColor = System.Drawing.Color.Tan;
-            this.topkvbtn.Location = new System.Drawing.Point(848, 569);
+            this.topkvbtn.Location = new System.Drawing.Point(362, 569);
             this.topkvbtn.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.topkvbtn.Name = "topkvbtn";
             this.topkvbtn.Size = new System.Drawing.Size(140, 73);
@@ -156,17 +144,28 @@
             this.topkvbtn.UseVisualStyleBackColor = false;
             this.topkvbtn.Click += new System.EventHandler(this.topkvbtn_Click);
             // 
+            // homeButton1
+            // 
+            this.homeButton1.BackColor = System.Drawing.Color.Brown;
+            this.homeButton1.Location = new System.Drawing.Point(13, 569);
+            this.homeButton1.Name = "homeButton1";
+            this.homeButton1.Size = new System.Drawing.Size(140, 73);
+            this.homeButton1.TabIndex = 9;
+            this.homeButton1.Text = "Home";
+            this.homeButton1.UseVisualStyleBackColor = false;
+            this.homeButton1.Click += new System.EventHandler(this.homeButton1_Click);
+            // 
             // szuroForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Kavek.Properties.Resources.kavebab;
             this.ClientSize = new System.Drawing.Size(1200, 692);
+            this.Controls.Add(this.homeButton1);
             this.Controls.Add(this.topkvbtn);
             this.Controls.Add(this.kiirbtn);
             this.Controls.Add(this.fogyhelybtn);
             this.Controls.Add(this.decafButton);
-            this.Controls.Add(this.fooldalButton);
             this.Controls.Add(this.olcsokButton);
             this.Controls.Add(this.dragakButton);
             this.Controls.Add(this.visszaallitButton);
@@ -185,10 +184,10 @@
         private System.Windows.Forms.Button visszaallitButton;
         private System.Windows.Forms.Button dragakButton;
         private System.Windows.Forms.Button olcsokButton;
-        private System.Windows.Forms.Button fooldalButton;
         private System.Windows.Forms.Button decafButton;
         private System.Windows.Forms.Button fogyhelybtn;
         private System.Windows.Forms.Button kiirbtn;
         private System.Windows.Forms.Button topkvbtn;
+        private Entities.homeButton homeButton1;
     }
 }

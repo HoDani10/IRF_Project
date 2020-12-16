@@ -9,3 +9,5 @@ C:\Users\Dani\source\repos\IRF_Project2\Kavek\Kavek\bin\Debug\Kavek.exe
 C:\Users\Dani\source\repos\IRF_Project2\Kavek\Kavek\bin\Debug\Kavek.pdb
 C:\Users\Dani\source\repos\IRF_Project2\Kavek\Kavek\obj\Debug\Kavek.exe
 C:\Users\Dani\source\repos\IRF_Project2\Kavek\Kavek\obj\Debug\Kavek.pdb
+C:\Users\Dani\source\repos\IRF_Project2\Kavek\Kavek\bin\Debug\bin\Debug\kavebab.jpg
+C:\Users\Dani\source\repos\IRF_Project2\Kavek\Kavek\bin\Debug\bin\Debug\kaveikon.png

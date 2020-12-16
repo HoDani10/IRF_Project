@@ -177,13 +177,6 @@ namespace Kavek
             
         }
 
-        private void fooldalButton_Click(object sender, EventArgs e)
-        {
-            alapForm af = new alapForm();
-            af.Show();
-            Hide();
-        }
-
         private void topkvbtn_Click(object sender, EventArgs e)
         {
 
@@ -204,6 +197,13 @@ namespace Kavek
             MessageBox.Show("A legtöbbet eladott kávé a " + topkv + "," + darabszam + " került eladásra");
 
 
+        }
+
+        private void homeButton1_Click(object sender, EventArgs e)
+        {
+            alapForm af = new alapForm();
+            af.Show();
+            Hide();
         }
     }
 }
